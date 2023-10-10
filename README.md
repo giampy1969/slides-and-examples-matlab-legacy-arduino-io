@@ -1,6 +1,8 @@
 # slides-and-examples-matlab-legacy-arduino-io
 Slides and examples for the old webinar: "Learning Basic Mechatronics Concepts Using the Arduino Board and MATLAB".
 
+[![View slides-and-examples-matlab-legacy-arduino-io on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/27843-slides-and-examples-matlab-legacy-arduino-io)
+
 This zip file some slides (and some MATLAB&reg; examples) explaining the Legacy MATLAB and Simulink Support for Arduino (formerly known as "ArduinoIO package").
 This legacy package allows the user to perform Analog and Digital Input and Output, as well as to control DC, Servo and Stepper Motors interactively from the MATLAB command window, without having to write, debug, compile, upload and run C programs.
 
